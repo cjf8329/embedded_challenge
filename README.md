@@ -1,4 +1,5 @@
 =============== INSTRUCTIONS =========================
+
 With USB port pointing towards user, press right button to record locking gesture
 After recording is done, red LED will turn on signifying that the system is locked
 While system is locked, you are unable to record a new gesture
